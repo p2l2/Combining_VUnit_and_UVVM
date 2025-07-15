@@ -1,0 +1,4 @@
+./vunit_out
+UVVM_Alert.txt
+UVVM_Log.txt
+vhdl_ls.toml
