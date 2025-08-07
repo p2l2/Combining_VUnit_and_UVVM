@@ -55,6 +55,8 @@ git submodule update --init --recursive
 
 ### 2. Install Dependencies
 
+Running [initial_setup.sh](./initial_setup.sh) will automatically install all dependencies. Alternatively, if you prefer to install them manually, here is a list of the required dependencies:
+
 #### VUnit
 
 This example uses the development version `5.0.0.dev6`. To install:
